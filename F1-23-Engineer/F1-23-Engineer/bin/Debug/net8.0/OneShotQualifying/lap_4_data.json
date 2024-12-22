@@ -1,0 +1,3367 @@
+{
+  "laptime": 0,
+  "dataPoints": {
+    "4": [
+      {
+        "LapDistance": 0.3017578,
+        "LapTime": 0,
+        "CarTelemetryData": {
+          "Speed": 284,
+          "Throttle": 1,
+          "Steer": -0.00041198736,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11457,
+          "Drs": 1,
+          "RevLightsPercent": 52,
+          "RevLightsBitValue": 24831,
+          "BrakesTemperature": [
+            604,
+            603,
+            489,
+            486
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 1.6210938,
+        "LapTime": 33,
+        "CarTelemetryData": {
+          "Speed": 284,
+          "Throttle": 1,
+          "Steer": -0.000289917,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11468,
+          "Drs": 1,
+          "RevLightsPercent": 53,
+          "RevLightsBitValue": 24831,
+          "BrakesTemperature": [
+            604,
+            602,
+            488,
+            485
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 2.9404297,
+        "LapTime": 33,
+        "CarTelemetryData": {
+          "Speed": 285,
+          "Throttle": 1,
+          "Steer": 0.00035095218,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11480,
+          "Drs": 1,
+          "RevLightsPercent": 54,
+          "RevLightsBitValue": 24831,
+          "BrakesTemperature": [
+            603,
+            601,
+            487,
+            484
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 5.584961,
+        "LapTime": 66,
+        "CarTelemetryData": {
+          "Speed": 285,
+          "Throttle": 1,
+          "Steer": 0.0021820066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11501,
+          "Drs": 1,
+          "RevLightsPercent": 57,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            602,
+            600,
+            485,
+            482
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 5.584961,
+        "LapTime": 83,
+        "CarTelemetryData": {
+          "Speed": 285,
+          "Throttle": 1,
+          "Steer": 0.0021820066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11501,
+          "Drs": 1,
+          "RevLightsPercent": 57,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            602,
+            600,
+            485,
+            482
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 8.233398,
+        "LapTime": 100,
+        "CarTelemetryData": {
+          "Speed": 286,
+          "Throttle": 1,
+          "Steer": 0.0053254366,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11524,
+          "Drs": 1,
+          "RevLightsPercent": 59,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            601,
+            599,
+            483,
+            480
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 8.233398,
+        "LapTime": 116,
+        "CarTelemetryData": {
+          "Speed": 286,
+          "Throttle": 1,
+          "Steer": 0.0053254366,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11524,
+          "Drs": 1,
+          "RevLightsPercent": 59,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            601,
+            599,
+            483,
+            480
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 9.560547,
+        "LapTime": 116,
+        "CarTelemetryData": {
+          "Speed": 286,
+          "Throttle": 1,
+          "Steer": 0.0077058077,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11534,
+          "Drs": 1,
+          "RevLightsPercent": 60,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            600,
+            598,
+            482,
+            479
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 10.887695,
+        "LapTime": 150,
+        "CarTelemetryData": {
+          "Speed": 286,
+          "Throttle": 1,
+          "Steer": 0.008468747,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11545,
+          "Drs": 1,
+          "RevLightsPercent": 61,
+          "RevLightsBitValue": 25087,
+          "BrakesTemperature": [
+            599,
+            598,
+            481,
+            478
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 12.216797,
+        "LapTime": 150,
+        "CarTelemetryData": {
+          "Speed": 287,
+          "Throttle": 1,
+          "Steer": 0.009536862,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11557,
+          "Drs": 1,
+          "RevLightsPercent": 63,
+          "RevLightsBitValue": 25599,
+          "BrakesTemperature": [
+            599,
+            597,
+            480,
+            477
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 13.547852,
+        "LapTime": 183,
+        "CarTelemetryData": {
+          "Speed": 287,
+          "Throttle": 1,
+          "Steer": 0.009781003,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11568,
+          "Drs": 1,
+          "RevLightsPercent": 64,
+          "RevLightsBitValue": 25599,
+          "BrakesTemperature": [
+            598,
+            596,
+            479,
+            476
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 14.878906,
+        "LapTime": 183,
+        "CarTelemetryData": {
+          "Speed": 287,
+          "Throttle": 1,
+          "Steer": 0.009781003,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11578,
+          "Drs": 1,
+          "RevLightsPercent": 66,
+          "RevLightsBitValue": 25599,
+          "BrakesTemperature": [
+            597,
+            596,
+            478,
+            475
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 16.211914,
+        "LapTime": 216,
+        "CarTelemetryData": {
+          "Speed": 288,
+          "Throttle": 1,
+          "Steer": 0.009536862,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11589,
+          "Drs": 1,
+          "RevLightsPercent": 67,
+          "RevLightsBitValue": 25599,
+          "BrakesTemperature": [
+            597,
+            595,
+            477,
+            474
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 17.545898,
+        "LapTime": 216,
+        "CarTelemetryData": {
+          "Speed": 288,
+          "Throttle": 1,
+          "Steer": 0.008743405,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11600,
+          "Drs": 1,
+          "RevLightsPercent": 68,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            596,
+            594,
+            476,
+            473
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 18.881836,
+        "LapTime": 250,
+        "CarTelemetryData": {
+          "Speed": 288,
+          "Throttle": 1,
+          "Steer": 0.008072019,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11610,
+          "Drs": 1,
+          "RevLightsPercent": 70,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            595,
+            594,
+            475,
+            472
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 20.21875,
+        "LapTime": 250,
+        "CarTelemetryData": {
+          "Speed": 288,
+          "Throttle": 1,
+          "Steer": 0.0069123507,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11621,
+          "Drs": 1,
+          "RevLightsPercent": 71,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            595,
+            593,
+            474,
+            471
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 21.55664,
+        "LapTime": 283,
+        "CarTelemetryData": {
+          "Speed": 289,
+          "Throttle": 1,
+          "Steer": 0.006240964,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11631,
+          "Drs": 1,
+          "RevLightsPercent": 72,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            594,
+            593,
+            473,
+            470
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 24.235352,
+        "LapTime": 300,
+        "CarTelemetryData": {
+          "Speed": 289,
+          "Throttle": 1,
+          "Steer": 0.0040131807,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11652,
+          "Drs": 1,
+          "RevLightsPercent": 74,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            593,
+            591,
+            471,
+            468
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 24.235352,
+        "LapTime": 316,
+        "CarTelemetryData": {
+          "Speed": 289,
+          "Throttle": 1,
+          "Steer": 0.0040131807,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11652,
+          "Drs": 1,
+          "RevLightsPercent": 74,
+          "RevLightsBitValue": 26623,
+          "BrakesTemperature": [
+            593,
+            591,
+            471,
+            468
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 26.919922,
+        "LapTime": 333,
+        "CarTelemetryData": {
+          "Speed": 290,
+          "Throttle": 1,
+          "Steer": 0.0021820068,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11672,
+          "Drs": 1,
+          "RevLightsPercent": 77,
+          "RevLightsBitValue": 28671,
+          "BrakesTemperature": [
+            592,
+            590,
+            469,
+            466
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 26.919922,
+        "LapTime": 350,
+        "CarTelemetryData": {
+          "Speed": 290,
+          "Throttle": 1,
+          "Steer": 0.0021820068,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11672,
+          "Drs": 1,
+          "RevLightsPercent": 77,
+          "RevLightsBitValue": 28671,
+          "BrakesTemperature": [
+            592,
+            590,
+            469,
+            466
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 29.609375,
+        "LapTime": 366,
+        "CarTelemetryData": {
+          "Speed": 290,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11692,
+          "Drs": 1,
+          "RevLightsPercent": 79,
+          "RevLightsBitValue": 28671,
+          "BrakesTemperature": [
+            590,
+            589,
+            467,
+            464
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 29.609375,
+        "LapTime": 383,
+        "CarTelemetryData": {
+          "Speed": 290,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11692,
+          "Drs": 1,
+          "RevLightsPercent": 79,
+          "RevLightsBitValue": 28671,
+          "BrakesTemperature": [
+            590,
+            589,
+            467,
+            464
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 32.30371,
+        "LapTime": 400,
+        "CarTelemetryData": {
+          "Speed": 291,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11714,
+          "Drs": 1,
+          "RevLightsPercent": 81,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            589,
+            587,
+            465,
+            462
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 32.30371,
+        "LapTime": 416,
+        "CarTelemetryData": {
+          "Speed": 291,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11714,
+          "Drs": 1,
+          "RevLightsPercent": 81,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            589,
+            587,
+            465,
+            462
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 35.001953,
+        "LapTime": 433,
+        "CarTelemetryData": {
+          "Speed": 291,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11733,
+          "Drs": 1,
+          "RevLightsPercent": 84,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            588,
+            586,
+            463,
+            460
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 35.001953,
+        "LapTime": 450,
+        "CarTelemetryData": {
+          "Speed": 291,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11733,
+          "Drs": 1,
+          "RevLightsPercent": 84,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            588,
+            586,
+            463,
+            460
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 36.353516,
+        "LapTime": 466,
+        "CarTelemetryData": {
+          "Speed": 291,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11744,
+          "Drs": 1,
+          "RevLightsPercent": 85,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            587,
+            586,
+            462,
+            459
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 37.706055,
+        "LapTime": 466,
+        "CarTelemetryData": {
+          "Speed": 292,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11754,
+          "Drs": 1,
+          "RevLightsPercent": 86,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            587,
+            585,
+            461,
+            458
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 39.05957,
+        "LapTime": 500,
+        "CarTelemetryData": {
+          "Speed": 292,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11763,
+          "Drs": 1,
+          "RevLightsPercent": 87,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            586,
+            584,
+            460,
+            457
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 40.414062,
+        "LapTime": 500,
+        "CarTelemetryData": {
+          "Speed": 292,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11772,
+          "Drs": 1,
+          "RevLightsPercent": 88,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            585,
+            584,
+            459,
+            456
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 41.76953,
+        "LapTime": 533,
+        "CarTelemetryData": {
+          "Speed": 292,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11782,
+          "Drs": 1,
+          "RevLightsPercent": 89,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            585,
+            583,
+            458,
+            455
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 43.126953,
+        "LapTime": 533,
+        "CarTelemetryData": {
+          "Speed": 293,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11792,
+          "Drs": 1,
+          "RevLightsPercent": 90,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            584,
+            582,
+            457,
+            455
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 44.48535,
+        "LapTime": 566,
+        "CarTelemetryData": {
+          "Speed": 293,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11801,
+          "Drs": 1,
+          "RevLightsPercent": 91,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            583,
+            582,
+            456,
+            454
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 45.844727,
+        "LapTime": 566,
+        "CarTelemetryData": {
+          "Speed": 293,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11810,
+          "Drs": 1,
+          "RevLightsPercent": 92,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            583,
+            581,
+            455,
+            453
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 47.20508,
+        "LapTime": 600,
+        "CarTelemetryData": {
+          "Speed": 293,
+          "Throttle": 1,
+          "Steer": 0.00062561035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11820,
+          "Drs": 1,
+          "RevLightsPercent": 93,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            582,
+            580,
+            454,
+            452
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 48.566406,
+        "LapTime": 600,
+        "CarTelemetryData": {
+          "Speed": 294,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11830,
+          "Drs": 1,
+          "RevLightsPercent": 94,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            581,
+            580,
+            453,
+            451
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 49.929688,
+        "LapTime": 633,
+        "CarTelemetryData": {
+          "Speed": 294,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11839,
+          "Drs": 1,
+          "RevLightsPercent": 96,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            581,
+            579,
+            452,
+            450
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 52.658203,
+        "LapTime": 650,
+        "CarTelemetryData": {
+          "Speed": 294,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11858,
+          "Drs": 1,
+          "RevLightsPercent": 98,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            580,
+            578,
+            450,
+            448
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 52.658203,
+        "LapTime": 666,
+        "CarTelemetryData": {
+          "Speed": 294,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11858,
+          "Drs": 1,
+          "RevLightsPercent": 98,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            580,
+            578,
+            450,
+            448
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 54.024414,
+        "LapTime": 666,
+        "CarTelemetryData": {
+          "Speed": 295,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11867,
+          "Drs": 1,
+          "RevLightsPercent": 99,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            579,
+            577,
+            449,
+            447
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 55.3916,
+        "LapTime": 700,
+        "CarTelemetryData": {
+          "Speed": 295,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11876,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            578,
+            577,
+            448,
+            446
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 58.129883,
+        "LapTime": 716,
+        "CarTelemetryData": {
+          "Speed": 295,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11894,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            577,
+            575,
+            446,
+            444
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 58.129883,
+        "LapTime": 733,
+        "CarTelemetryData": {
+          "Speed": 295,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11894,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            577,
+            575,
+            446,
+            444
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 60.87207,
+        "LapTime": 749,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11911,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            576,
+            574,
+            444,
+            442
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 60.87207,
+        "LapTime": 766,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11911,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            576,
+            574,
+            444,
+            442
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 62.24414,
+        "LapTime": 766,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11921,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            575,
+            574,
+            443,
+            441
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 63.618164,
+        "LapTime": 799,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 7,
+          "EngineRPM": 11931,
+          "Drs": 1,
+          "RevLightsPercent": 100,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            574,
+            573,
+            442,
+            440
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 66.36914,
+        "LapTime": 816,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 7,
+          "EngineRPM": 11948,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            573,
+            572,
+            440,
+            438
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 66.36914,
+        "LapTime": 833,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": 0.00074768066,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 7,
+          "EngineRPM": 11948,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            573,
+            572,
+            440,
+            438
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 69.11914,
+        "LapTime": 849,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 7,
+          "EngineRPM": 11771,
+          "Drs": 1,
+          "RevLightsPercent": 88,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            572,
+            570,
+            439,
+            436
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 69.11914,
+        "LapTime": 866,
+        "CarTelemetryData": {
+          "Speed": 296,
+          "Throttle": 1,
+          "Steer": 0.00050354004,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 7,
+          "EngineRPM": 11771,
+          "Drs": 1,
+          "RevLightsPercent": 88,
+          "RevLightsBitValue": 32767,
+          "BrakesTemperature": [
+            572,
+            570,
+            439,
+            436
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 71.86914,
+        "LapTime": 883,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": 0.00010681152,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 8,
+          "EngineRPM": 10530,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            571,
+            569,
+            437,
+            434
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 71.86914,
+        "LapTime": 899,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": 0.00010681152,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 8,
+          "EngineRPM": 10530,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            571,
+            569,
+            437,
+            434
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 73.24512,
+        "LapTime": 899,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": -0.0008087158,
+          "Brake": 0,
+          "Clutch": 100,
+          "Gear": 8,
+          "EngineRPM": 10620,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            570,
+            568,
+            436,
+            433
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 74.62207,
+        "LapTime": 933,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": -0.001083374,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10639,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            569,
+            568,
+            435,
+            432
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 77.37891,
+        "LapTime": 949,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": -0.0016021729,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10656,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            568,
+            567,
+            433,
+            431
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 77.37891,
+        "LapTime": 966,
+        "CarTelemetryData": {
+          "Speed": 297,
+          "Throttle": 1,
+          "Steer": -0.0016021729,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10656,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            568,
+            567,
+            433,
+            431
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 78.759766,
+        "LapTime": 966,
+        "CarTelemetryData": {
+          "Speed": 298,
+          "Throttle": 1,
+          "Steer": -0.0014801025,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10665,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            567,
+            566,
+            432,
+            430
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 80.140625,
+        "LapTime": 999,
+        "CarTelemetryData": {
+          "Speed": 298,
+          "Throttle": 1,
+          "Steer": -0.0014801025,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10672,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            567,
+            565,
+            431,
+            429
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 81.52246,
+        "LapTime": 999,
+        "CarTelemetryData": {
+          "Speed": 298,
+          "Throttle": 1,
+          "Steer": -0.0014801025,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10680,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            566,
+            565,
+            430,
+            428
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 82.90625,
+        "LapTime": 1033,
+        "CarTelemetryData": {
+          "Speed": 298,
+          "Throttle": 1,
+          "Steer": -0.0016021729,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10688,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            566,
+            564,
+            429,
+            427
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 84.29004,
+        "LapTime": 1033,
+        "CarTelemetryData": {
+          "Speed": 299,
+          "Throttle": 1,
+          "Steer": -0.0021210313,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10696,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            565,
+            563,
+            428,
+            426
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 85.67578,
+        "LapTime": 1066,
+        "CarTelemetryData": {
+          "Speed": 299,
+          "Throttle": 1,
+          "Steer": -0.0026703477,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10704,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            564,
+            563,
+            427,
+            425
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 87.0625,
+        "LapTime": 1066,
+        "CarTelemetryData": {
+          "Speed": 299,
+          "Throttle": 1,
+          "Steer": -0.0034332871,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10711,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            564,
+            562,
+            426,
+            424
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 88.44922,
+        "LapTime": 1099,
+        "CarTelemetryData": {
+          "Speed": 299,
+          "Throttle": 1,
+          "Steer": -0.0039826035,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10718,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            563,
+            562,
+            425,
+            423
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 89.83789,
+        "LapTime": 1099,
+        "CarTelemetryData": {
+          "Speed": 300,
+          "Throttle": 1,
+          "Steer": -0.005539,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10726,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            562,
+            561,
+            424,
+            422
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 91.22754,
+        "LapTime": 1133,
+        "CarTelemetryData": {
+          "Speed": 300,
+          "Throttle": 1,
+          "Steer": -0.006607175,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10734,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            562,
+            560,
+            424,
+            421
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 92.618164,
+        "LapTime": 1133,
+        "CarTelemetryData": {
+          "Speed": 300,
+          "Throttle": 1,
+          "Steer": -0.0076447725,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10742,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            561,
+            560,
+            423,
+            420
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 94.009766,
+        "LapTime": 1166,
+        "CarTelemetryData": {
+          "Speed": 300,
+          "Throttle": 1,
+          "Steer": -0.0071259737,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10749,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            561,
+            559,
+            422,
+            419
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 95.40137,
+        "LapTime": 1166,
+        "CarTelemetryData": {
+          "Speed": 300,
+          "Throttle": 1,
+          "Steer": -0.005020201,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10757,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            560,
+            558,
+            421,
+            419
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 96.79492,
+        "LapTime": 1199,
+        "CarTelemetryData": {
+          "Speed": 301,
+          "Throttle": 1,
+          "Steer": -0.0038300157,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10765,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            559,
+            558,
+            420,
+            418
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 98.19043,
+        "LapTime": 1199,
+        "CarTelemetryData": {
+          "Speed": 301,
+          "Throttle": 1,
+          "Steer": -0.0021210313,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10773,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            559,
+            557,
+            419,
+            417
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 100.98242,
+        "LapTime": 1233,
+        "CarTelemetryData": {
+          "Speed": 301,
+          "Throttle": 1,
+          "Steer": -0.001083374,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10788,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            557,
+            556,
+            417,
+            415
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 100.98242,
+        "LapTime": 1249,
+        "CarTelemetryData": {
+          "Speed": 301,
+          "Throttle": 1,
+          "Steer": -0.001083374,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10788,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            557,
+            556,
+            417,
+            415
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 103.77832,
+        "LapTime": 1266,
+        "CarTelemetryData": {
+          "Speed": 302,
+          "Throttle": 1,
+          "Steer": 0.00010681152,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10803,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            556,
+            555,
+            415,
+            413
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 103.77832,
+        "LapTime": 1283,
+        "CarTelemetryData": {
+          "Speed": 302,
+          "Throttle": 1,
+          "Steer": 0.00010681152,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10803,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            556,
+            555,
+            415,
+            413
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 106.578125,
+        "LapTime": 1299,
+        "CarTelemetryData": {
+          "Speed": 302,
+          "Throttle": 1,
+          "Steer": -0.00016784667,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10818,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            555,
+            553,
+            413,
+            411
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 106.578125,
+        "LapTime": 1316,
+        "CarTelemetryData": {
+          "Speed": 302,
+          "Throttle": 1,
+          "Steer": -0.00016784667,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10818,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            555,
+            553,
+            413,
+            411
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 109.38281,
+        "LapTime": 1333,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10833,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            554,
+            552,
+            412,
+            409
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 109.38281,
+        "LapTime": 1349,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10833,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            554,
+            552,
+            412,
+            409
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 112.19043,
+        "LapTime": 1366,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.001998961,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10848,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            552,
+            551,
+            410,
+            408
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 112.19043,
+        "LapTime": 1383,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.001998961,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10848,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            552,
+            551,
+            410,
+            408
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 115.00293,
+        "LapTime": 1399,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10863,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            551,
+            550,
+            408,
+            406
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 115.00293,
+        "LapTime": 1416,
+        "CarTelemetryData": {
+          "Speed": 303,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10863,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            551,
+            550,
+            408,
+            406
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 117.81836,
+        "LapTime": 1433,
+        "CarTelemetryData": {
+          "Speed": 304,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10878,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            550,
+            549,
+            406,
+            404
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 117.81836,
+        "LapTime": 1449,
+        "CarTelemetryData": {
+          "Speed": 304,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10878,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            550,
+            549,
+            406,
+            404
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 120.63867,
+        "LapTime": 1466,
+        "CarTelemetryData": {
+          "Speed": 304,
+          "Throttle": 1,
+          "Steer": -0.0013580322,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10893,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            549,
+            547,
+            404,
+            402
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 120.63867,
+        "LapTime": 1483,
+        "CarTelemetryData": {
+          "Speed": 304,
+          "Throttle": 1,
+          "Steer": -0.0013580322,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10893,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            549,
+            547,
+            404,
+            402
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 122.049805,
+        "LapTime": 1483,
+        "CarTelemetryData": {
+          "Speed": 304,
+          "Throttle": 1,
+          "Steer": -0.0012054443,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10900,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            548,
+            547,
+            403,
+            401
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 123.461914,
+        "LapTime": 1516,
+        "CarTelemetryData": {
+          "Speed": 305,
+          "Throttle": 1,
+          "Steer": -0.0013580322,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10907,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            548,
+            546,
+            403,
+            400
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 124.875,
+        "LapTime": 1516,
+        "CarTelemetryData": {
+          "Speed": 305,
+          "Throttle": 1,
+          "Steer": -0.0013580322,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10915,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            547,
+            545,
+            402,
+            400
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 126.28906,
+        "LapTime": 1549,
+        "CarTelemetryData": {
+          "Speed": 305,
+          "Throttle": 1,
+          "Steer": -0.0016021729,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10922,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            546,
+            545,
+            401,
+            399
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 127.7041,
+        "LapTime": 1549,
+        "CarTelemetryData": {
+          "Speed": 305,
+          "Throttle": 1,
+          "Steer": -0.0017242432,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10929,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            546,
+            544,
+            400,
+            398
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 129.1211,
+        "LapTime": 1583,
+        "CarTelemetryData": {
+          "Speed": 305,
+          "Throttle": 1,
+          "Steer": -0.0017242432,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10936,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            545,
+            544,
+            399,
+            397
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 130.53809,
+        "LapTime": 1583,
+        "CarTelemetryData": {
+          "Speed": 306,
+          "Throttle": 1,
+          "Steer": -0.001998961,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10943,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            544,
+            543,
+            398,
+            396
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 131.95605,
+        "LapTime": 1616,
+        "CarTelemetryData": {
+          "Speed": 306,
+          "Throttle": 1,
+          "Steer": -0.0022736192,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10952,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            544,
+            542,
+            397,
+            395
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 133.375,
+        "LapTime": 1616,
+        "CarTelemetryData": {
+          "Speed": 306,
+          "Throttle": 1,
+          "Steer": -0.0022736192,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10957,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            543,
+            542,
+            396,
+            394
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 134.79492,
+        "LapTime": 1649,
+        "CarTelemetryData": {
+          "Speed": 306,
+          "Throttle": 1,
+          "Steer": -0.0022736192,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10963,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            543,
+            541,
+            395,
+            393
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 136.21582,
+        "LapTime": 1649,
+        "CarTelemetryData": {
+          "Speed": 307,
+          "Throttle": 1,
+          "Steer": -0.0022736192,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10971,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            542,
+            540,
+            395,
+            393
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 137.6377,
+        "LapTime": 1683,
+        "CarTelemetryData": {
+          "Speed": 307,
+          "Throttle": 1,
+          "Steer": -0.0022736192,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10979,
+          "Drs": 1,
+          "RevLightsPercent": 0,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            541,
+            540,
+            394,
+            392
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 139.06055,
+        "LapTime": 1683,
+        "CarTelemetryData": {
+          "Speed": 307,
+          "Throttle": 1,
+          "Steer": -0.0021210313,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10985,
+          "Drs": 1,
+          "RevLightsPercent": 1,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            541,
+            539,
+            393,
+            391
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 140.4834,
+        "LapTime": 1716,
+        "CarTelemetryData": {
+          "Speed": 307,
+          "Throttle": 1,
+          "Steer": -0.0018768309,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10992,
+          "Drs": 1,
+          "RevLightsPercent": 1,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            540,
+            539,
+            392,
+            390
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 141.9082,
+        "LapTime": 1716,
+        "CarTelemetryData": {
+          "Speed": 307,
+          "Throttle": 1,
+          "Steer": -0.0017242432,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 10999,
+          "Drs": 1,
+          "RevLightsPercent": 2,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            539,
+            538,
+            391,
+            389
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      },
+      {
+        "LapDistance": 144.75977,
+        "LapTime": 1749,
+        "CarTelemetryData": {
+          "Speed": 308,
+          "Throttle": 1,
+          "Steer": -0.0017242432,
+          "Brake": 0,
+          "Clutch": 0,
+          "Gear": 8,
+          "EngineRPM": 11013,
+          "Drs": 1,
+          "RevLightsPercent": 4,
+          "RevLightsBitValue": 24576,
+          "BrakesTemperature": [
+            538,
+            537,
+            389,
+            387
+          ],
+          "TyresSurfaceTemperature": "ZGRkZA==",
+          "TyresInnerTemperature": "ZGRkZA==",
+          "EngineTemperature": 110,
+          "TyresPressure": [
+            20.575703,
+            20.575703,
+            23.008299,
+            23.008299
+          ],
+          "SurfaceType": "AAAAAA=="
+        }
+      }
+    ]
+  }
+}

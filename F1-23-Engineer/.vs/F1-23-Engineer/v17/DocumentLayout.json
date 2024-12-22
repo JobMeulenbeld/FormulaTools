@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meule\\source\\repos\\F1-23-Engineer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E565DD99-4658-4AA0-9D88-28C5DAAF4682}|F1-23-Engineer\\F1-23-Engineer.csproj|c:\\users\\meule\\source\\repos\\f1-23-engineer\\f1-23-engineer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E565DD99-4658-4AA0-9D88-28C5DAAF4682}|F1-23-Engineer\\F1-23-Engineer.csproj|solutionrelative:f1-23-engineer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meule\\source\\repos\\F1-23-Engineer\\F1-23-Engineer\\Program.cs",
+              "RelativeDocumentMoniker": "F1-23-Engineer\\Program.cs",
+              "ToolTip": "C:\\Users\\meule\\source\\repos\\F1-23-Engineer\\F1-23-Engineer\\Program.cs",
+              "RelativeToolTip": "F1-23-Engineer\\Program.cs",
+              "ViewState": "AgIAAPICAAAAAAAAAAAIwDkDAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:02:04.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
