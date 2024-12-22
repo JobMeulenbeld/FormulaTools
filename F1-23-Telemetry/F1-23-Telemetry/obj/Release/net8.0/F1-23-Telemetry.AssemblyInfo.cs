@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("F1-23-Telemetry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58aab032141ae29fb9d7dce170607d81f464f74e")]
 [assembly: System.Reflection.AssemblyProductAttribute("F1-23-Telemetry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("F1-23-Telemetry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

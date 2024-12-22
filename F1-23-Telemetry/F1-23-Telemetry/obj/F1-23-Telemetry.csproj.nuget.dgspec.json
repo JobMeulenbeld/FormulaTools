@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meule\\source\\repos\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj": {}
+    "C:\\Users\\meule\\source\\repos\\FormulaTools\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meule\\source\\repos\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj": {
+    "C:\\Users\\meule\\source\\repos\\FormulaTools\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meule\\source\\repos\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj",
+        "projectUniqueName": "C:\\Users\\meule\\source\\repos\\FormulaTools\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj",
         "projectName": "F1-23-Telemetry",
-        "projectPath": "C:\\Users\\meule\\source\\repos\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj",
+        "projectPath": "C:\\Users\\meule\\source\\repos\\FormulaTools\\F1-23-Telemetry\\F1-23-Telemetry\\F1-23-Telemetry.csproj",
         "packagesPath": "C:\\Users\\meule\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meule\\source\\repos\\F1-23-Telemetry\\F1-23-Telemetry\\obj\\",
+        "outputPath": "C:\\Users\\meule\\source\\repos\\FormulaTools\\F1-23-Telemetry\\F1-23-Telemetry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,12 +70,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
